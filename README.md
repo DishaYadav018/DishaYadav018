@@ -2,7 +2,7 @@
 
 - 🎓 Currently pursuing Computer Science and Artificial Intelligence at IIT Lucknow.
 - 🌱 Passionate about exploring new technologies and building cool stuff.
-- 🧠 DSA Enthusiast! Check out my LeetCode profile:[LeetCode](https://leetcode.com/disha_yadav18/)
+- 🧠 DSA Enthusiast! Check out my LeetCode profile:[LeetCode](https://leetcode.com/disha_yadav15/)
 
 ## Open Source Contributions
 
@@ -27,6 +27,6 @@ I'm excited to start my journey in open source!
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disha-yadav-104a47285/) 
-or check out my problem-solving journey on [LeetCode](https://leetcode.com/disha_yadav18/).
+or check out my problem-solving journey on [LeetCode](https://leetcode.com/disha_yadav15/).
 
 Happy coding and contributing! 🚀
