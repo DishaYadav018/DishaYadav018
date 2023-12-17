@@ -1,16 +1,30 @@
-### Hi there 👋
+# My GitHub Portfolio
 
-<!--
-**DishaYadav018/DishaYadav018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
+Welcome to my GitHub repository where I showcase my projects, assignments, and contributions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing Computer Science and Artificial Intelligence at IIT Lucknow.
+- 🌱 Passionate about exploring new technologies and building cool stuff.
+- 🧠 DSA Enthusiast! Check out my LeetCode profile: [LeetCode](https://leetcode.com/disha_yadav18/)
+
+## Open Source Contributions
+
+I'm excited to start my journey in open source! 
+
+- 🔍 Exploring interesting open source projects.
+- 🛠️ Actively looking for issues to contribute to.
+- 🤝 Open to collaborations and discussions.
+
+## Skills
+
+- Programming Languages: C, C++, Java, Python
+- Frontend Development: HTML, CSS, JavaScript
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disha-yadav-104a47285/) 
+or check out my problem-solving journey on [LeetCode](https://leetcode.com/disha_yadav18/).
+
+Happy coding and contributing! 🚀
